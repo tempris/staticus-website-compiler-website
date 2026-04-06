@@ -5,7 +5,7 @@
         <loc>https://synticore.cureinteractive.com/about</loc>
     
         
-        <lastmod>2026-02-03T05:34:08.149Z</lastmod>
+        <lastmod>2026-02-13T15:28:51.825Z</lastmod>
     
     </url>
     <url>
@@ -13,7 +13,7 @@
         <loc>https://synticore.cureinteractive.com</loc>
     
         
-        <lastmod>2026-02-05T05:32:35.747Z</lastmod>
+        <lastmod>2026-04-06T11:33:22.002Z</lastmod>
     
     </url>
     <url>
@@ -21,7 +21,7 @@
         <loc>https://synticore.cureinteractive.com/license</loc>
     
         
-        <lastmod>2026-02-03T03:39:50.085Z</lastmod>
+        <lastmod>2026-02-13T22:57:04.761Z</lastmod>
     
     </url>
     <url>
@@ -29,79 +29,295 @@
         <loc>https://synticore.cureinteractive.com/wiki</loc>
     
         
-        <lastmod>2026-02-06T22:04:16.152Z</lastmod>
+        <lastmod>2026-04-07T14:36:41.641Z</lastmod>
     
     </url>
     <url>
         
-        <loc>https://synticore.cureinteractive.com/wiki/config</loc>
+        <loc>https://synticore.cureinteractive.com/wiki/builder</loc>
     
         
-        <lastmod>2026-02-09T03:34:10.504Z</lastmod>
+        <lastmod>2026-04-06T22:12:19.153Z</lastmod>
     
     </url>
     <url>
         
-        <loc>https://synticore.cureinteractive.com/wiki/example</loc>
+        <loc>https://synticore.cureinteractive.com/wiki/changelog</loc>
     
         
-        <lastmod>2026-02-06T05:49:14.461Z</lastmod>
+        <lastmod>2026-04-07T14:35:35.247Z</lastmod>
     
     </url>
     <url>
         
-        <loc>https://synticore.cureinteractive.com/wiki/gui</loc>
+        <loc>https://synticore.cureinteractive.com/wiki/developer</loc>
     
         
-        <lastmod>2026-02-06T22:01:53.650Z</lastmod>
+        <lastmod>2026-04-07T11:57:46.926Z</lastmod>
     
     </url>
     <url>
         
-        <loc>https://synticore.cureinteractive.com/wiki/log</loc>
+        <loc>https://synticore.cureinteractive.com/wiki/builder/browser</loc>
     
         
-        <lastmod>2026-02-06T05:49:14.462Z</lastmod>
+        <lastmod>2026-03-25T14:46:51.165Z</lastmod>
     
     </url>
     <url>
         
-        <loc>https://synticore.cureinteractive.com/wiki/migration</loc>
+        <loc>https://synticore.cureinteractive.com/wiki/builder/config-ownership</loc>
     
         
-        <lastmod>2026-02-08T15:01:45.042Z</lastmod>
+        <lastmod>2026-03-25T14:46:51.165Z</lastmod>
     
     </url>
     <url>
         
-        <loc>https://synticore.cureinteractive.com/wiki/setup</loc>
+        <loc>https://synticore.cureinteractive.com/wiki/builder/config</loc>
     
         
-        <lastmod>2026-02-07T18:12:00.333Z</lastmod>
+        <lastmod>2026-04-05T00:38:10.628Z</lastmod>
     
     </url>
     <url>
         
-        <loc>https://synticore.cureinteractive.com/wiki/structure</loc>
+        <loc>https://synticore.cureinteractive.com/wiki/builder/example-ignore-behavior</loc>
     
         
-        <lastmod>2026-02-06T05:49:14.464Z</lastmod>
+        <lastmod>2026-03-25T13:17:01.367Z</lastmod>
     
     </url>
     <url>
         
-        <loc>https://synticore.cureinteractive.com/wiki/terminal</loc>
+        <loc>https://synticore.cureinteractive.com/wiki/builder/example-mirrors</loc>
     
         
-        <lastmod>2026-02-07T18:11:53.782Z</lastmod>
+        <lastmod>2026-03-25T13:17:01.368Z</lastmod>
     
     </url>
     <url>
         
-        <loc>https://synticore.cureinteractive.com/wiki/workflow</loc>
+        <loc>https://synticore.cureinteractive.com/wiki/builder/example-packaging-targets</loc>
     
         
-        <lastmod>2026-02-07T18:11:57.550Z</lastmod>
+        <lastmod>2026-03-25T13:17:01.368Z</lastmod>
     
     </url>
-</urlset><!-- Built with Synticore Website Compiler 1.1.0 -->
+    <url>
+        
+        <loc>https://synticore.cureinteractive.com/wiki/builder/example-title-generation</loc>
+    
+        
+        <lastmod>2026-03-25T13:17:01.368Z</lastmod>
+    
+    </url>
+    <url>
+        
+        <loc>https://synticore.cureinteractive.com/wiki/builder/example-url-modes</loc>
+    
+        
+        <lastmod>2026-03-25T13:17:01.368Z</lastmod>
+    
+    </url>
+    <url>
+        
+        <loc>https://synticore.cureinteractive.com/wiki/builder/example-watch-triggers</loc>
+    
+        
+        <lastmod>2026-03-25T14:46:51.167Z</lastmod>
+    
+    </url>
+    <url>
+        
+        <loc>https://synticore.cureinteractive.com/wiki/builder/example</loc>
+    
+        
+        <lastmod>2026-03-25T13:17:01.369Z</lastmod>
+    
+    </url>
+    <url>
+        
+        <loc>https://synticore.cureinteractive.com/wiki/builder/file-include</loc>
+    
+        
+        <lastmod>2026-04-06T22:30:59.040Z</lastmod>
+    
+    </url>
+    <url>
+        
+        <loc>https://synticore.cureinteractive.com/wiki/builder/first-site</loc>
+    
+        
+        <lastmod>2026-03-27T16:00:23.952Z</lastmod>
+    
+    </url>
+    <url>
+        
+        <loc>https://synticore.cureinteractive.com/wiki/builder/font-icon</loc>
+    
+        
+        <lastmod>2026-03-25T13:17:01.369Z</lastmod>
+    
+    </url>
+    <url>
+        
+        <loc>https://synticore.cureinteractive.com/wiki/builder/gui</loc>
+    
+        
+        <lastmod>2026-04-06T02:42:11.904Z</lastmod>
+    
+    </url>
+    <url>
+        
+        <loc>https://synticore.cureinteractive.com/wiki/builder/license</loc>
+    
+        
+        <lastmod>2026-04-06T22:30:59.039Z</lastmod>
+    
+    </url>
+    <url>
+        
+        <loc>https://synticore.cureinteractive.com/wiki/builder/log</loc>
+    
+        
+        <lastmod>2026-03-25T14:46:51.168Z</lastmod>
+    
+    </url>
+    <url>
+        
+        <loc>https://synticore.cureinteractive.com/wiki/builder/migration</loc>
+    
+        
+        <lastmod>2026-03-25T14:46:51.168Z</lastmod>
+    
+    </url>
+    <url>
+        
+        <loc>https://synticore.cureinteractive.com/wiki/builder/new-project</loc>
+    
+        
+        <lastmod>2026-04-05T15:04:31.751Z</lastmod>
+    
+    </url>
+    <url>
+        
+        <loc>https://synticore.cureinteractive.com/wiki/builder/setup</loc>
+    
+        
+        <lastmod>2026-04-05T16:47:53.496Z</lastmod>
+    
+    </url>
+    <url>
+        
+        <loc>https://synticore.cureinteractive.com/wiki/builder/structure</loc>
+    
+        
+        <lastmod>2026-04-05T16:18:37.498Z</lastmod>
+    
+    </url>
+    <url>
+        
+        <loc>https://synticore.cureinteractive.com/wiki/builder/templates</loc>
+    
+        
+        <lastmod>2026-03-27T16:00:23.952Z</lastmod>
+    
+    </url>
+    <url>
+        
+        <loc>https://synticore.cureinteractive.com/wiki/builder/terminal</loc>
+    
+        
+        <lastmod>2026-03-25T14:51:43.921Z</lastmod>
+    
+    </url>
+    <url>
+        
+        <loc>https://synticore.cureinteractive.com/wiki/builder/troubleshooting</loc>
+    
+        
+        <lastmod>2026-03-25T14:46:51.169Z</lastmod>
+    
+    </url>
+    <url>
+        
+        <loc>https://synticore.cureinteractive.com/wiki/builder/workflow</loc>
+    
+        
+        <lastmod>2026-03-25T14:51:06.911Z</lastmod>
+    
+    </url>
+    <url>
+        
+        <loc>https://synticore.cureinteractive.com/wiki/developer/browser</loc>
+    
+        
+        <lastmod>2026-04-06T02:41:42.210Z</lastmod>
+    
+    </url>
+    <url>
+        
+        <loc>https://synticore.cureinteractive.com/wiki/developer/config</loc>
+    
+        
+        <lastmod>2026-03-25T14:51:06.912Z</lastmod>
+    
+    </url>
+    <url>
+        
+        <loc>https://synticore.cureinteractive.com/wiki/developer/cure-time</loc>
+    
+        
+        <lastmod>2026-03-25T13:17:01.372Z</lastmod>
+    
+    </url>
+    <url>
+        
+        <loc>https://synticore.cureinteractive.com/wiki/developer/file-include</loc>
+    
+        
+        <lastmod>2026-03-25T14:51:06.912Z</lastmod>
+    
+    </url>
+    <url>
+        
+        <loc>https://synticore.cureinteractive.com/wiki/developer/maintainer-guide</loc>
+    
+        
+        <lastmod>2026-04-07T11:57:46.926Z</lastmod>
+    
+    </url>
+    <url>
+        
+        <loc>https://synticore.cureinteractive.com/wiki/developer/maintenance</loc>
+    
+        
+        <lastmod>2026-03-25T14:51:06.912Z</lastmod>
+    
+    </url>
+    <url>
+        
+        <loc>https://synticore.cureinteractive.com/wiki/developer/migration</loc>
+    
+        
+        <lastmod>2026-04-05T15:04:31.751Z</lastmod>
+    
+    </url>
+    <url>
+        
+        <loc>https://synticore.cureinteractive.com/wiki/developer/validation</loc>
+    
+        
+        <lastmod>2026-04-07T11:57:46.926Z</lastmod>
+    
+    </url>
+    <url>
+        
+        <loc>https://synticore.cureinteractive.com/wiki/developer/watch-triggers</loc>
+    
+        
+        <lastmod>2026-03-25T14:51:06.913Z</lastmod>
+    
+    </url>
+</urlset><!-- Built with Synticore Website Compiler 1.1.4 -->
